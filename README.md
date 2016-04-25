@@ -15,9 +15,9 @@ Abaixo estão indicadas as seções do livro texto utilizadas em cada aula. A re
 
 ### Primeiro bimestre (B1)
 
-1. 
-1. 
-1. 
+1. passado
+1. passado
+1. apresentação
 1. Seminários (**cap 4**)
 1. Seminários (**cap 4**)
 1. P1.
@@ -25,8 +25,17 @@ Abaixo estão indicadas as seções do livro texto utilizadas em cada aula. A re
 
 ### Segundo bimestre (B2)
 
-1. 
+1. [Modelagem][] (**cap 8**)
+1. Otimização (**cap 9**)
+1. Seminários
+1. Seminários
+1. Seminários
+1. Seminários
+1. P2
+1. Revisão
+1. P3
 
+[Modelagem]: Aulas/EP-modelagem.pdf
 
 ## Listas de exercícios e problemas
 
