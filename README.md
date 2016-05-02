@@ -25,8 +25,8 @@ Abaixo estão indicadas as seções do livro texto utilizadas em cada aula. A re
 
 ### Segundo bimestre (B2)
 
-1. [Modelagem][] (**cap 8**)
-1. Otimização (**cap 9**)
+1. [Modelagem][] (**cap 7**)
+1. [Otimização][] (**cap 8**)
 1. Seminários
 1. Seminários
 1. Seminários
@@ -36,6 +36,7 @@ Abaixo estão indicadas as seções do livro texto utilizadas em cada aula. A re
 1. P3
 
 [Modelagem]: Aulas/EP-modelagem.pdf
+[Otimização]: Aulas/EP-otimizacao.pdf
 
 ## Listas de exercícios e problemas
 
