@@ -27,10 +27,9 @@ Abaixo estão indicadas as seções do livro texto utilizadas em cada aula. A re
 
 1. [Modelagem][] (**cap 7**)
 1. [Otimização][] (**cap 8**)
-1. Seminários
-1. Seminários
-1. Seminários
-1. Seminários
+1. Seminários (**cap 7, 8 e 10**)
+1. Seminários (**cap 7, 8 e 10**)
+1. Seminários (**cap 7, 8 e 10**)
 1. P2
 1. Revisão
 1. P3

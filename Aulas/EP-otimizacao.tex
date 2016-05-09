@@ -174,13 +174,29 @@ Fonte: BAZZO \& PEREIRA, 2006.
 Fonte: BAZZO \& PEREIRA, 2006.
 \end{frame}
 
+\begin{frame}{Soluções ótimas}
+  \begin{itemize}
+  \item Um problema pode ter várias soluções \alert{viáveis}.
+  \item Cada contexto tem um critério de comparação
+  \item Soluções podem ser ``melhores'' que as outras, no contexto específico
+  \item Uma solução é \alert{ótima} quando é a {\bf melhor solução viável}.
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Soluções ótimas}
+  \centering
+  \includegraphics[width=.9\textwidth]{otimizacao/rotas}
+
+Dois critérios possíveis: tempo, ou distância (a minimizar).
+\end{frame}
+
 \begin{frame}{Exemplos}
   \begin{itemize}
-  \item geladeira
-  \item panela de pressao
   \item rotas
+  \item geladeira/ar condicionado
+  \item panela de pressao
   \item processos de construção
-  \item matéria prima
+  \item uso de matéria prima
   \item demanda e oferta (preços de venda)
   \end{itemize}
 \end{frame}
@@ -188,6 +204,14 @@ Fonte: BAZZO \& PEREIRA, 2006.
 \begin{frame}{No dia a dia\ldots}
   \centering
   \includegraphics[width=.9\textwidth]{otimizacao/dia_a_dia}
+
+\vfill
+Fonte: BAZZO \& PEREIRA, 2006.
+\end{frame}
+
+\begin{frame}{Nas engenharias\ldots}
+  \centering
+  \includegraphics[height=.9\textheight]{otimizacao/engenharias}
 
 \vfill
 Fonte: BAZZO \& PEREIRA, 2006.
@@ -305,6 +329,31 @@ Fonte: BAZZO \& PEREIRA, 2006.
   \centering
   \includegraphics[width=1.1\textwidth]{otimizacao/1var}
 
+(Um ponto de máximo)
+
+\vfill
+Fonte: BAZZO \& PEREIRA, 2006.
+\end{frame}
+
+\begin{frame}{Otimização analítica}
+  \begin{block}{}
+    Um ponto de máximo local ocorre sempre que a função (i.e. o problema) é sempre menor que ele na região vizinha.
+  \end{block}
+
+  \begin{itemize}
+  \item Diversos métodos matemáticos analisam o comportamento local de funções
+  \item Observa-se se a função está crescendo ou descrescendo
+  % \item Observa-se quando ela \alert{muda} a direção de crescimento
+  % \item Este é chamado um \alert{ponto crítico}
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Otimização analítica}
+  \centering
+  \includegraphics[width=1.1\textwidth]{otimizacao/1var}
+
+(Este ponto é um máximo local)
+
 \vfill
 Fonte: BAZZO \& PEREIRA, 2006.
 \end{frame}
@@ -334,7 +383,8 @@ Fonte: BAZZO \& PEREIRA, 2006.
   \includegraphics[width=\textwidth]{otimizacao/angrybirds}
 \end{frame}
 
-\subsection[Curiosidade]{Curiosidade: Otimização matemática}
+\section{Curiosidade}
+\subsection{Otimização matemática}
 
 \begin{frame}{Curiosidade}
   \begin{block}{Atenção}
@@ -342,7 +392,30 @@ Fonte: BAZZO \& PEREIRA, 2006.
   \end{block}
 \end{frame}
 
-\begin{frame}{Curiosidade}
+\begin{frame}{Recapitulando}
+  \centering
+  \includegraphics[width=1.1\textwidth]{otimizacao/1var}
+
+(O que podemos dizer sobre este ponto?)
+
+\vfill
+Fonte: BAZZO \& PEREIRA, 2006.
+\end{frame}
+
+\begin{frame}{Máximo local}
+  \begin{block}{Máximo local}
+    Um ponto de máximo local ocorre sempre que o valor da função (i.e. o problema) é sempre menor que ele na região vizinha.
+  \end{block}
+
+  \begin{itemize}
+  \item<1-> Diversos métodos matemáticos analisam o comportamento local de funções
+  \item<1-> Observa-se se a função está crescendo ou descrescendo
+  \item Observa-se quando ela \alert{muda} a direção de crescimento
+  \item Este é chamado um \alert{ponto crítico}
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Algumas técnicas de otimização}
 A matemática aplicada nos proporciona diversos métodos para encontrar soluções ótimas para problemas práticos:
 
   \begin{enumerate}
